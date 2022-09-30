@@ -1,0 +1,13 @@
+section img{
+    height: 500px;
+    width: 900px;
+    position: relative;
+    left: 15%;
+    margin-bottom: 20px;
+}
+
+.texto{
+    text-align: justify;
+    padding: 10px;
+    margin-left: 10px;
+}

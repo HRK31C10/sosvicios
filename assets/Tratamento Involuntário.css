@@ -1,0 +1,29 @@
+#navbarBasicExample{
+    margin-top: 30px;
+}
+
+#exampleFormControlTextarea1{
+    width: 700px;
+    margin-left: 350px;
+    height: 500px;
+}
+
+#tratamento_tittle{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 70px;
+    
+}
+
+.imagem{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.texto{
+        text-align: justify;
+        padding: 20px;
+        margin-left: 10px;
+    }
+    
